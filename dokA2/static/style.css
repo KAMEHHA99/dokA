@@ -1,0 +1,44 @@
+h1{
+    color: rgb(135, 136, 136);
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 0.5px;
+}
+.osnova>p{
+    text-align: center;
+    font-size: 24px;
+    color:rgb(173, 63, 146);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+}
+.main{
+    display: flex;
+ 
+}
+.main>ol{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(70, 39, 39);
+    list-style: none;
+    padding-left: 155px;
+}
+.verxpanel>ul>input{
+    font-size: 15px;
+    border-style: groove;
+    border-width: 3px;
+    margin-left: 300px;
+    padding-left: 40px;
+    
+}
+    
+    .verxpanel>ul>li{
+        list-style: none;
+        display: inline;
+        padding: 0 100px;
+        color: rgb(67, 100, 148);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+    }
