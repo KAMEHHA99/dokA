@@ -1,0 +1,530 @@
+{
+  "Profiles": [
+    {
+      "Tablet": "XP-Pen Star G640",
+      "OutputMode": {
+        "Path": "OpenTabletDriver.Desktop.Output.AbsoluteMode",
+        "Settings": [],
+        "Enable": true
+      },
+      "Filters": [
+        {
+          "Path": "Circular_Area.Circular_Power2_Blend_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Power2_Blend",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Non_axial_Half_Punch_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Non_axial_Half_Punch_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Non_axial_2_Pinch_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Lamé_based_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_FG_Squircular_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Elliptical_Grid_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Cornerific_Tapered2_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Blended_E_Grid_Mapping",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Vertical",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Vertical_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Horizontal_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Blended_Mapping",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Blended_Mapping_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Approximate_Equal_Area_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Approximate_Equal_Area_2_Vertical",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Horizontal",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Blended_E_Grid_Mapping_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Concentric_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Tablet_Area_Randomizer.Tablet_Area_Randomizer",
+          "Settings": [
+            {
+              "Property": "Time_interval_min",
+              "Value": 100.0
+            },
+            {
+              "Property": "Time_interval_max",
+              "Value": 1000.0
+            },
+            {
+              "Property": "Minimum_area_multiplier_raw",
+              "Value": 50.0
+            },
+            {
+              "Property": "Randomizer_dev_min_raw",
+              "Value": 5.0
+            },
+            {
+              "Property": "Randomizer_dev_max_raw",
+              "Value": 10.0
+            },
+            {
+              "Property": "Split_xy",
+              "Value": null
+            },
+            {
+              "Property": "Minimum_area_multiplier_x_raw",
+              "Value": 50.0
+            },
+            {
+              "Property": "Minimum_area_multiplier_y_raw",
+              "Value": 50.0
+            }
+          ],
+          "Enable": true
+        },
+        {
+          "Path": "Circular_Area.CircularControlPanel",
+          "Settings": [
+            {
+              "Property": "Mapping_Name_1",
+              "Value": null
+            },
+            {
+              "Property": "Truncation_raw_1",
+              "Value": 1.0
+            },
+            {
+              "Property": "Disable_Q1_1",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q2_1",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q3_1",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q4_1",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Expand_1",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Expand_Disabled_1",
+              "Value": null
+            },
+            {
+              "Property": "Mapping_Name_2",
+              "Value": null
+            },
+            {
+              "Property": "Truncation_raw_2",
+              "Value": 1.0
+            },
+            {
+              "Property": "Disable_Q1_2",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q2_2",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q3_2",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q4_2",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Expand_2",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Expand_Disabled_2",
+              "Value": null
+            },
+            {
+              "Property": "Mapping_Name_3",
+              "Value": null
+            },
+            {
+              "Property": "Truncation_raw_3",
+              "Value": 1.0
+            },
+            {
+              "Property": "Disable_Q1_3",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q2_3",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q3_3",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q4_3",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Expand_3",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Expand_Disabled_3",
+              "Value": null
+            },
+            {
+              "Property": "Mapping_Name_4",
+              "Value": null
+            },
+            {
+              "Property": "Truncation_raw_4",
+              "Value": 1.0
+            },
+            {
+              "Property": "Disable_Q1_4",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q2_4",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q3_4",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Q4_4",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Expand_4",
+              "Value": null
+            },
+            {
+              "Property": "Disable_Expand_Disabled_4",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Power3_Blend",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Power3_Blend_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_2_Squircular_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_3_Squircular_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Sham_Quartic_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_3_Squircular_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Sham_Quartic_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Simple_Stretch_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Squelched_Grid_Open_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Tapered4_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Approximate_Equal_Area",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Approximate_Equal_Area_2_Horizontal",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Simple_Stretch",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Squelched_Grid_Open_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Tapered4_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_2_Squircular_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Lamé_based_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Horizontal_Squelch_Open_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Non_axial_2_Pinch_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "TabletDriverFilters.Hawku.Smoothing",
+          "Settings": [
+            {
+              "Property": "Frequency",
+              "Value": 1000.0
+            },
+            {
+              "Property": "Latency",
+              "Value": 11.0
+            }
+          ],
+          "Enable": true
+        },
+        {
+          "Path": "OpenTabletDriver.Plugin.NoiseReduction",
+          "Settings": [
+            {
+              "Property": "Samples",
+              "Value": 20
+            },
+            {
+              "Property": "DistanceThreshold",
+              "Value": 20.0
+            }
+          ],
+          "Enable": true
+        }
+      ],
+      "AbsoluteModeSettings": {
+        "Display": {
+          "Width": 1920.0,
+          "Height": 1080.0,
+          "X": 960.0,
+          "Y": 540.0,
+          "Rotation": 0.0
+        },
+        "Tablet": {
+          "Width": 45.0,
+          "Height": 45.0,
+          "X": 67.5,
+          "Y": 36.67,
+          "Rotation": 0.0
+        },
+        "EnableClipping": true,
+        "EnableAreaLimiting": false,
+        "LockAspectRatio": false
+      },
+      "RelativeModeSettings": {
+        "XSensitivity": 10.0,
+        "YSensitivity": 10.0,
+        "RelativeRotation": 0.0,
+        "RelativeResetDelay": "00:00:00.1000000"
+      },
+      "Bindings": {
+        "TipActivationThreshold": 0.0,
+        "TipButton": {
+          "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+          "Settings": [
+            {
+              "Property": "Button",
+              "Value": "Left"
+            }
+          ],
+          "Enable": true
+        },
+        "EraserActivationThreshold": 0.0,
+        "EraserButton": null,
+        "PenButtons": [
+          null,
+          null
+        ],
+        "AuxButtons": [],
+        "MouseButtons": [],
+        "MouseScrollUp": null,
+        "MouseScrollDown": null
+      }
+    }
+  ],
+  "LockUsableAreaDisplay": true,
+  "LockUsableAreaTablet": true,
+  "Tools": []
+}
